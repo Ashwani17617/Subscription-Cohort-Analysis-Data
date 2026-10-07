@@ -94,4 +94,4 @@ Customers
     │ 1 : *
     ▼
 Subscriptions
-<img width="1322" height="745" alt="Dashboard" src="https://github.com/user-attachments/assets/f6a22a5f-e6cc-4916-a95a-b50fae314927" />
+
